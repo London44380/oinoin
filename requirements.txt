@@ -1,0 +1,2 @@
+apt install tor
+pip3 install stem
