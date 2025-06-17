@@ -1,2 +1,2 @@
-apt install tor
+apt install tor or dnf install tor
 pip3 install stem
